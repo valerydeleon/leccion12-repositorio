@@ -1,3 +1,5 @@
+# Repositorio en Github
+
 # Inicializar
 * git init
 * git add .  o  git add FILENAME
@@ -9,7 +11,8 @@
 * git clone URL
 
 # Modificar
-* git pull
+* git add .
+* git commit -m "NAME CAMBIO"
 * git push
 
 # Revisar
